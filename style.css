@@ -1,0 +1,38 @@
+.main-image img {
+  width: 100%;
+}
+
+body {
+    background-color: light-grey;
+}
+
+
+p {
+    line-height: 1.6;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1{
+	font-family: 'Libre Baskerville', serif;
+}
+
+h2{
+	font-family: 'Libre Baskerville', serif;
+
+
+}
+#paragraph2 {
+
+	line-height: 1.6;
+    font-family: 'Libre Baskerville', serif;
+
+
+}
+
+#paragraph3 {
+	line-height: 1.6;
+    font-family: 'Libre Baskerville', serif;
+
+
+
+}
